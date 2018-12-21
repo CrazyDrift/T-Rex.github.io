@@ -26,7 +26,7 @@ By visiting the Site, downloading the Game, or otherwise using the Service, you 
 
 ### 1. Privacy Policy
 
-Our Privacy Policy, located at [ Crazy Drift Privacy Policy ], is part of and is governed by these ToS. By agreeing to these ToS, you agree to be bound by the terms of the Privacy Policy and agree that we may use information collected from you in accordance with its terms.
+Our Privacy Policy, located at [ Crazy Drift Privacy Policy ](https://crazydrift.github.io/2018/12/21/crazydrift-privacy-policy/), is part of and is governed by these ToS. By agreeing to these ToS, you agree to be bound by the terms of the Privacy Policy and agree that we may use information collected from you in accordance with its terms.
 
 ### 2. Notice Regarding Dispute Resolution
 
