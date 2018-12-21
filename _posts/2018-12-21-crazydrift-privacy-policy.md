@@ -4,7 +4,7 @@ title:      Privacy Policy
 subtitle:   Crazy Drift
 date:       2018-12-21
 author:     T-Rex
-header-img: img/post-bg-ios8-web.jpg
+header-img: img/post-bg-digital-native.jpg
 catalog: true
 tags:
     - Privacy Policy
